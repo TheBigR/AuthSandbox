@@ -1,0 +1,15 @@
+{
+  "name": "authsandbox",
+  "version": "1.0.0",
+  "description": "just a sandbox for learning authotincation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/TheBigR/AuthSandbox.git"
+  },
+  "author": "Roy Nevo",
+  "license": "ISC"
+}
